@@ -5,7 +5,7 @@
   "engines": {
     "node": "17.9.0"
   },
-  "homepage": "https://varunakk.github.io/BankFront",
+  "homepage": "https://varunakk.github.io",
    "proxy": "https://appbankiiits.herokuapp.com:5000",
     "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
